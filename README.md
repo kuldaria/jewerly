@@ -1,5 +1,6 @@
 # jewerly
 Jewelry Workshop Website
+
 An educational web development project featuring a fictional jewelry brand.
 The website was designed and developed as an educational project. The brand and business concept are fictional and do not represent a real company.
 Live demo: https://kuldaria.github.io/jewerly/
